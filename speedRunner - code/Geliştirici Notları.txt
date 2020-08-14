@@ -1,0 +1,16 @@
+Solondis Digital Developer beta programýna hoþgeldiniz.
+
+Beta süreci boyunca en yeni özellikleri test etmek hatta geliþtirmek için sizlerden yardým alýyoruz.
+Unutulmamalýdýrki beta süreci tam versiyon deðildir "Çökmeler, kapanmalar, kitlenmeler vb..." birçok hata barýndýrmaktadýr.
+Solondis digital gelþtirici programýnýn bir parçasý olarak bu görev size düþmekte.
+Test ettiðiniz betalardaki hatalarý bize gei bildirmek bu sayede nihai versiyonda olabildiðince stabil ve  kararlý bir oyun yayýnlamýþ olacaðýz.
+
+iyi çalýþmalar...
+iyi kodlamalar...
+
+(Lütfen bulduðunuz hatalarý Scripts klasörü içersindeki bug dosyasýna tanýmý ile beraber yazýnýz)
+(Eðer mümkün ise hatanýzýn bir ekran görüntüsünü bug dosyasý içerisindeki pictures klasörüne kaydediniz)
+(Ardýndan .Zip dosyasýna çevirip Solondis Digital Email adresine gönderiniz)
+
+
+Ýmza: Solondis Ddigital Ceo: Kaðan Yusuf Arslan
